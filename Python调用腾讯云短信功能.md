@@ -6,11 +6,11 @@ typora-root-url: assets
 
 #### 1 注册腾讯云并开通云短信功能
 
-![image-20200609110334727](/image-20200609110334727.png)
+![image-20200609110334727](https://github.com/hanfuming/notebook/blob/master/assets/image-20200609110334727.png)
 
-![image-20200609110346788](/image-20200609110346788.png)
+![image-20200609110346788](https://github.com/hanfuming/notebook/blob/master/assets/image-20200609110346788.png)
 
-![image-20200609110419553](/image-20200609110419553.png)
+![image-20200609110419553](https://github.com/hanfuming/notebook/blob/master/assets/image-20200609110419553.png)
 
 #### 2 发送短信
 
@@ -80,7 +80,7 @@ if __name__ == '__main__':
 
 #### 3 频率限制
 
-![image-20200609110906265](/image-20200609110906265.png)
+![image-20200609110906265](https://github.com/hanfuming/notebook/blob/master/assets/image-20200609110906265.png)
 
 
 
